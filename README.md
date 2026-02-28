@@ -11,14 +11,14 @@ ____________________
     $ pkg install git -y
     $ pkg install python -y
     $ rm -rf MASTER_TOOLS
-    $ git clone https://github.com/Saikohackerteamrm/MASTER_TOOLS
+    $ git clone https://github.com/saikohackerteamrm/MASTER_TOOLS
     $ cd MASTER_TOOLS
     $ python Mithila.py
     
 _______________________________________
 # Single installation command
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && rm -rf MASTER_TOOLS && git clone https://github.com/Saikohackerteamrm/MASTER_TOOLS && cd MASTER_TOOLS && python Mithila.py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && rm -rf MASTER_TOOLS && git clone https://github.com/saikohackerteamrm/MASTER_TOOLS && cd MASTER_TOOLS && python Mithila.py
     
 
  ### Hi there 👋
